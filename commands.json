@@ -36,6 +36,8 @@
     "flag G5",
     "clear G4",
     "clear H6",
-    "flag H4"
+    "flag H4",
+    "clear H5",
+    "end"
   ]
 }
